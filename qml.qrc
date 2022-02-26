@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>glcode.js</file>
+        <file>three.js</file>
+        <file>xpanol.js</file>
+        <file>tween.js</file>
+        <file>ControlEventSource.qml</file>
+        <file>EVENt.qml</file>
+        <file>Infospot.js</file>
+        <file>TextElement.qml</file>
+        <file>ImagePanorama.qml</file>
+        <file>VideoPanoama.qml</file>
+        <file>image/arrow.png</file>
+    </qresource>
+</RCC>
